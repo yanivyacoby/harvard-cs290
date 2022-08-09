@@ -2,17 +2,21 @@ instructors:
   - name: Yaniv Yacoby
     profile_pic: /_images/pp/yy.png
     webpage: https://yanivyacoby.github.io/
+    pronouns: he/him
   - name: John Girash
     profile_pic: /_images/pp/jgirash.png
     webpage: https://scholar.harvard.edu/girash/home
+    pronouns: he/him
   - name: Madhu Sudan
     profile_pic: /_images/pp/madhu.png
     webpage: https://madhu.seas.harvard.edu/
+    pronouns: he/him
 
 teaching_assistants:
   - name: Eura Shin
     profile_pic: /_images/pp/eura.png
     webpage: https://eurashin.github.io/
+    pronouns: she/her
 
 feedback:
   - name: David Brooks
