@@ -25,7 +25,7 @@ The resources below will help you get started.
 We hope that in going through them, you can shift your focus from outcome to process: 
 you’re a PhD student and here to learn -- it wouldn’t make sense if you already knew how to do everything!
 
-* [How to make the most out of your PhD: a guide from current to incoming students](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html), which discusses:
+* [How to make the most out of your PhD: a guide from current to incoming students](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html){:target="_blank"}{:rel="noopener noreferrer"}, which discusses:
   1. What should you expect from yourself in your first year?
   2. What does your advisor expect from you in your first year?
   3. How can you be supportive of your peers?
