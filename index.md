@@ -14,7 +14,7 @@ This is a full-year, 4-unit course, meeting once a week in each of the fall and 
     
 This course is required for new (G1) Computer Science Ph.D. students. It satisfies one of the CS 200-level electives (one of the 10 required classes for the Computer Science Ph.D. degree). SEAS G1 Ph.D. students in related fields may petition to enroll with instructor permission.
 
-**Please come prepared having done the readings / assignment listed on the [schedule](/harvard-cs290/schedule/) prior to class.**
+*Please come prepared having done the readings / assignment listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.*
 
 
 ## Course Policy
