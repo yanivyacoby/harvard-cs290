@@ -1,15 +1,15 @@
 instructors:
   - name: Yaniv Yacoby
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /_images/pp/yy.ong
     webpage: https://yanivyacoby.github.io/
   - name: John Girash
-    profile_pic: /_images/pp/mcgonagall.jpg
+    profile_pic: /_images/pp/jgirash.png
     webpage: https://scholar.harvard.edu/girash/home
   - name: Madhu Sudan
-    profile_pic: /_images/pp/mcgonagall.jpg
+    profile_pic: /_images/pp/madhu.png
     webpage: https://madhu.seas.harvard.edu/
 
 teaching_assistants:
   - name: Eura Shin
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_images/pp/eura.png
     webpage: https://eurashin.github.io/
