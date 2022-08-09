@@ -23,7 +23,10 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 **Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and more than 1-2 absences, unless excused, may affect your final grade in the course.
 
-**Office Hours:** TBD.
+**Office Hours:** 
+* Yaniv: TBD
+* Eura: TBD
+* John: TBD
 
 In addition to these regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
