@@ -25,7 +25,7 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 **Office Hours:** TBD.
 
-In addition to these regularly heald office hours, additional office hours with any member of the course staff can be made by appointment. 
+In addition to these regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
 **Diversity, Inclusion and Belonging:** It is the mission of the teaching staff that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. We aim to create a learning environment that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions for how to better our classroom community are always encouraged and appreciated.
 
