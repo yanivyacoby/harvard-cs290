@@ -104,7 +104,7 @@ Below are some resources to help you get started thinking about these issues.
 
 * ["The Pursuit of Collective Intelligence"](https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4c974-d005-434a-8544-a8cf0179150f){:target="_blank"}{:rel="noopener noreferrer"}, a Talk by Professor Radhika Nagpal
 * [The Matthew Matilda Effect in Science](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/285482?seq=1#metadata_info_tab_contents){:target="_blank"}{:rel="noopener noreferrer"}
-* [Silent Technical Privilege: As a novice computer programmer, I always got the benefit of the doubt -- because I looked the part.](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html) {:target="_blank"}{:rel="noopener noreferrer"}
+* [Silent Technical Privilege: As a novice computer programmer, I always got the benefit of the doubt -- because I looked the part.](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html){:target="_blank"}{:rel="noopener noreferrer"}
 * [Et al. for all: Citations as a Tool for Racial Equity, Inclusion, and Justice](https://rurisi.com/citation-guide){:target="_blank"}{:rel="noopener noreferrer"}
 * [Racial and ethnic imbalance in neuroscience reference lists and intersections with gender](https://www.biorxiv.org/content/10.1101/2020.10.12.336230v1.full){:target="_blank"}{:rel="noopener noreferrer"}
 * [The myth of the lone genius](https://www.nobelprize.org/martin-chalfie-npii-canada/){:target="_blank"}{:rel="noopener noreferrer"}
@@ -139,7 +139,7 @@ We hope that some of these resources can help with understanding mental health c
 * [“I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough”: Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing](https://vanderbilt.app.box.com/s/fs7j3c4m7l8mkprmqywrzds0iwuizi9k){:target="_blank"}{:rel="noopener noreferrer"}
 * [“Black Genius, Asian Fail”: The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students](https://journals.sagepub.com/doi/full/10.1177/2332858418816658){:target="_blank"}{:rel="noopener noreferrer"}
 * [For some graduate students, the cost of doing science is their mental health](https://whyy.org/segments/for-some-graduate-students-the-cost-of-doing-science-is-their-mental-health/){:target="_blank"}{:rel="noopener noreferrer"}
-* [Dealing with Social Isolation to Minimize Doctoral Attrition -- A Four Stage Framework](https://core.ac.uk/download/pdf/190398024.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+* [Dealing with Social Isolation to Minimize Doctoral Attrition -- A Four Stage Framework](http://www.ijds.org/Volume2/IJDSv2p033-049Ali28.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 * PhD Balance:
   * [Mental Health in Academia by Fay Lin](https://www.youtube.com/watch?v=MHQapcmA9JU){:target="_blank"}{:rel="noopener noreferrer"}
   * [Grad Chat Podcast by PhD Balance](https://anchor.fm/phd-balance){:target="_blank"}{:rel="noopener noreferrer"}
