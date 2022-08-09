@@ -1,5 +1,5 @@
 # Site settings
-course_name: "CS290: Seminar on Effective Research Practices and Academic Culture"
+course_name: "CS290: Seminar on Effective Research Practices & Academic Culture"
 course_semester: "Fall 2022 - Spring 2023"
 
 baseurl: "/harvard-cs290-new" # the subpath of your site, e.g. /blog/
