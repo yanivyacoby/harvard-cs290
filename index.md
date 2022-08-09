@@ -7,7 +7,7 @@ This is a reading and discussion-based seminar designed for entering Computer Sc
 1. Research skill building (e.g. paper reading, communication) 
 2. Soft skill building (e.g. managing advising relationships, supporting your peers)
 3. Academic culture (e.g. mental health in academia, power dynamics in scientific communities)
-4. Research and professional-oriented discussions
+4. Research and professional-oriented discussions 
 
 *Please come prepared having done the readings/assignments listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.*
 
