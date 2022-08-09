@@ -61,7 +61,7 @@ layout: default
     <h2>Previous Offerings</h2>
     <ul class="previous-offerings">
     {% for offer in site.data.previous_offering.offerings %}
-    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
+    <li><a href="{{ offer.url }}" target="_blank">{{offer.title}}</a></li>
     {% endfor %}
     </ul>
     {% endif %}
@@ -72,7 +72,7 @@ layout: default
             There are a number of people we would like to acknowledge for helpful discussions and insights throughout the development of this offering of the course:
             {% for person in site.data.people.feedback %}
                 {% if person.webpage %}
-                <span><a href="{{ person.webpage }}">{{person.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
+                <span><a href="{{ person.webpage }}" target="_blank">{{person.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
                 {% else %}
                 <span>{{person.name}}{% unless forloop.last %}, {% endunless %}</span>
                 {% endif %}                
@@ -82,7 +82,7 @@ layout: default
             This course draws on: 
             {% for course in site.data.people.draws %}
                 {% if course.webpage %}
-                <span><a href="{{ course.webpage }}">{{course.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
+                <span><a href="{{ course.webpage }}" target="_blank">{{course.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
                 {% else %}
                 <span>{{course.name}}{% unless forloop.last %}, {% endunless %}</span>
                 {% endif %}                
