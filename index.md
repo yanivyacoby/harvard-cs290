@@ -16,6 +16,7 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 *Please come prepared having done the readings/assignments listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.*
 
+<br/>
 
 ## Course Policy
 
