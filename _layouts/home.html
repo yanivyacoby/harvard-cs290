@@ -33,6 +33,9 @@ layout: default
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
+                    {% if ins.pronouns %}
+                    <p>{{ins.pronouns}}</p>
+                    {% endif %}
                 </div>
                 {% endfor %}
             </div>
@@ -48,6 +51,9 @@ layout: default
                     <p><a href="{{ ta.webpage }}" target="_blank">{{ta.name}}</a></p>
                     {% else %}
                     <p>{{ta.name}}</p>
+                    {% endif %}
+                    {% if ta.pronouns %}
+                    <p>{{ta.pronouns}}</p>
                     {% endif %}
                 </div>
                 {% endfor %}
