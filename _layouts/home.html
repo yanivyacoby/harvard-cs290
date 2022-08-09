@@ -29,9 +29,9 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a></p>
+                    <p style="margin-bottom: 0px;"><a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a></p>
                     {% else %}
-                    <p>{{ins.name}}</p>
+                    <p style="margin-bottom: 0px;">{{ins.name}}</p>
                     {% endif %}
                     {% if ins.pronouns %}
                     <p style="margin-bottom: 0px;">({{ins.pronouns}})</p>
@@ -48,9 +48,9 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
-                    <p><a href="{{ ta.webpage }}" target="_blank">{{ta.name}}</a></p>
+                    <p style="margin-bottom: 0px;"><a href="{{ ta.webpage }}" target="_blank">{{ta.name}}</a></p>
                     {% else %}
-                    <p>{{ta.name}}</p>
+                    <p style="margin-bottom: 0px;">{{ta.name}}</p>
                     {% endif %}
                     {% if ta.pronouns %}
                     <p style="margin-bottom: 0px;">({{ta.pronouns}})</p>
