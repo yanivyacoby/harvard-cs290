@@ -2,19 +2,23 @@
 layout: home
 ---
 
-## Course Overview
+# Course Overview
 
 This is a reading and discussion-based seminar designed for entering Computer Science Ph.D. students. This course prepares students to manage the difficult and often undiscussed challenges of Ph.D. programs through sessions on:
 1. Research skill building (e.g. paper reading, communication) 
 2. Soft skill building (e.g. managing advising relationships, supporting your peers)
 3. Academic culture (e.g. mental health in academia, power dynamics in scientific communities)
 4. Research and professional-oriented discussions
-    
+
+*Please come prepared having done the readings/assignments listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.*
+
+<br/>
+
+## Course Credit
+
 This is a full-year, 4-unit course, meeting once a week in each of the fall and the spring. Students must complete both terms of this course (parts A and B) within the same academic year to receive credit.
     
 This course is required for new (G1) Computer Science Ph.D. students. It satisfies one of the CS 200-level electives (one of the 10 required classes for the Computer Science Ph.D. degree). SEAS G1 Ph.D. students in related fields may petition to enroll with instructor permission.
-
-*Please come prepared having done the readings/assignments listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.*
 
 <br/>
 
