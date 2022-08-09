@@ -13,3 +13,33 @@ teaching_assistants:
   - name: Eura Shin
     profile_pic: /_images/pp/eura.png
     webpage: https://eurashin.github.io/
+
+feedback:
+  - name: David Brooks
+    webpage: http://www.eecs.harvard.edu/~dbrooks/
+  - name: Finale Doshi-Velez
+    webpage: https://finale.seas.harvard.edu/
+  - name: Isaac Lage
+    webpage: https://isaaclage.github.io/
+  - name: Krzysztof Gajos
+    webpage: http://www.eecs.harvard.edu/~kgajos/
+  - name: Lillian Pentecost
+    webpage: https://lpentecost.github.io/cv/
+  - name: Margo Seltzer
+    webpage: https://www.seltzer.com/margo/
+  - name: Sam Hsia
+    webpage: 
+  - name: Udit Gupta
+    webpage: https://ugupta.com/
+  - name: Weiwei Pan
+    webpage: https://onefishy.github.io/
+  - name: Zana Bucinca
+    webpage: https://zbucinca.owlstown.net/
+
+draws:
+  - name: Justine Sherry's seminar "Reading on Research"
+    webpage: https://docs.google.com/document/d/1L610weeNT_KDe6gPgjHjuN4rBSnsI0NfwE2RZCLuKgE/edit
+  - name: Weiwei Pan's seminar "Diversity, Inclusion and Leadership in Tech"
+    webpage: https://onefishy.github.io/DIL_in_tech/
+  - name: Yaniv Yacoby's workshop "How to make the most out of your PhD"
+    webpage: https://yanivyacoby.github.io/a-guide-to-your-phd/
