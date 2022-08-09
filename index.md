@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# Course Overview
 
 This is a reading and discussion-based seminar designed for entering Computer Science Ph.D. students. This course prepares students to manage the difficult and often undiscussed challenges of Ph.D. programs through sessions on:
 1. Research skill building (e.g. paper reading, communication) 
