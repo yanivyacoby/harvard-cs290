@@ -1,7 +1,8 @@
 <header class="site-header">
 
   <div class="wrapper" style="z-index: 100;">
-      <table>
+      <!--
+      <table>        
         <tr>
           <td><img style="padding-top: 17px;" width="400" src="{{ "/_images/logo.png" | prepend: site.baseurl }}" valign="middle"></td>
           <td style="padding-left:10px;">
@@ -12,6 +13,17 @@
           </td>
         </tr>
     </table>
+    -->
+    <div>
+      <div style="float: left; width: 69%;">
+        <span class="site-title"><a href="{{ site.baseurl }}/" title="{{ site.course_title }} / {{ site.course_semester }} - {{ site.schoolname }}"><b>{{ site.course_name }}</a></b></span>
+        <br/>
+        <span class="coursesemeter" style="font-size: 14px;font-weight: bold;margin-top: 10px;display: block;">{{ site.course_semester }}</span>
+      </div>
+      <div style="float: right; width: 31%;">
+        <img width="100%" src="{{ "/_images/logo.png" | prepend: site.baseurl }}" valign="middle">
+      </div>
+    </div>
 
     <nav class="site-nav">
 
