@@ -7,8 +7,7 @@ baseurl: "/harvard-cs290-new" # the subpath of your site, e.g. /blog/
 url: "https://yanivyacoby.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Harvard University"
-schoolurl: "https://www.seas.harvard.edu/"
-twitter_username:  
+schoolurl: 
 
 address: |
     John A. Paulson School of Engineering and Applied Sciences
