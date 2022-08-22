@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 20122-09-02T09:00:00
+date: 2022-09-02T09:00:00
 name: Class
 description: 'Introduction'
 hide_from_announcments: true
