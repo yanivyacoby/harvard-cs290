@@ -11,6 +11,6 @@ hide_from_announcments: true
 * Read and answer questions about [Read The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3)
 
 **In Class:**
-* Introductions
-* What is research? What skills are necessary to do research?
-* A brief guide to Harvard and chat with G2s
+* Meet cohort
+* What is research? What skills are necessary to do research? What is this seminar about?
+* A brief guide to Harvard, and chat with G2s
