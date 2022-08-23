@@ -10,6 +10,7 @@ hide_from_announcments: true
 * Create a slide to introduce yourself, answer survey
 * Read and answer questions about:
   * [Read The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3){:target="_blank"}{:rel="noopener noreferrer"}
+  * [What you should know about us (the course staff)]({{ site.baseurl }}/what-you-should-know-about-us){:target="_blank"}{:rel="noopener noreferrer"}
 
 **In Class:**
 * Meet the G1 cohort
