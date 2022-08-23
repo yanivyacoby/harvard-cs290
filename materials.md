@@ -105,6 +105,7 @@ Below are some resources to help you get started thinking about these issues.
 * ["The Pursuit of Collective Intelligence"](https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4c974-d005-434a-8544-a8cf0179150f){:target="_blank"}{:rel="noopener noreferrer"}, a Talk by Professor Radhika Nagpal
 * [The Matthew Matilda Effect in Science](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/285482?seq=1#metadata_info_tab_contents){:target="_blank"}{:rel="noopener noreferrer"}
 * [Silent Technical Privilege: As a novice computer programmer, I always got the benefit of the doubt -- because I looked the part.](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html){:target="_blank"}{:rel="noopener noreferrer"}
+* [Defensive Climate in the Computer Science Classroom](https://courses.cs.washington.edu/courses/cse590e/02sp/defensive_20climate.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 * [Et al. for all: Citations as a Tool for Racial Equity, Inclusion, and Justice](https://rurisi.com/citation-guide){:target="_blank"}{:rel="noopener noreferrer"}
 * [Racial and ethnic imbalance in neuroscience reference lists and intersections with gender](https://www.biorxiv.org/content/10.1101/2020.10.12.336230v1.full){:target="_blank"}{:rel="noopener noreferrer"}
 * [The myth of the lone genius](https://www.nobelprize.org/martin-chalfie-npii-canada/){:target="_blank"}{:rel="noopener noreferrer"}
