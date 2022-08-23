@@ -4,9 +4,6 @@ title: What you should know about us (the course staff)
 permalink: /what-you-should-know-about-us/
 ---
 
-**Acknowledgments:** This post is inspired by and adapted from Evan Peck's 
-[What I want you to know about me as your professor](https://medium.com/bucknell-hci/what-i-want-you-to-know-about-me-as-your-professor-58c9c2e91e33){:target="_blank"}{:rel="noopener noreferrer"}.
-
 ## We're here because we care
 
 This offering of CS290 was created, developed, 
@@ -45,5 +42,7 @@ in which students feel judged for common struggles many experience,
 instead of coming together to support one another. 
 We ask you to be thoughtful in how you validate your peer's identities and create a safe and supportive space for everyone.
 
+## Acknowledgments
 
-
+This post is inspired by and adapted from Evan Peck's 
+[What I want you to know about me as your professor](https://medium.com/bucknell-hci/what-i-want-you-to-know-about-me-as-your-professor-58c9c2e91e33){:target="_blank"}{:rel="noopener noreferrer"}.
