@@ -2,7 +2,7 @@
 type: raw_event
 date: 2022-09-09T09:00:00
 name: Class
-description: 'Introduction'
+description: 'How to skim a research paper'
 hide_from_announcments: true
 ---
 
