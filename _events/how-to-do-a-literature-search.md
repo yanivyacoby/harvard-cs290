@@ -7,7 +7,7 @@ hide_from_announcments: true
 ---
 
 **Pre-class Work:** (instructions on canvas)
-* Read [Et al. for all: Citations as a Tool for Racial Equity, Inclusion, and Justice](https://rurisi.com/citation-guide) and answer reflection questions.
+* Read [Et al. for all: Citations as a Tool for Racial Equity, Inclusion, and Justice](https://rurisi.com/citation-guide){:target="_blank"}{:rel="noopener noreferrer"} and answer reflection questions.
 * Reflect on your own literature search strategy
 * Bring a problem statement for a current/previous research project
 
