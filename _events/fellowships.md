@@ -12,4 +12,4 @@ hide_from_announcments: true
 * Watch [The Craft of Writing Effectively by Larry McEnerney](https://www.youtube.com/watch?v=vtIzMaLkCaM){:target="_blank"}{:rel="noopener noreferrer"} and answer reflection questions (suggestion: organize a watch party with peers in the SEC).
 
 **In Class:**
-* Discussion with PhD Student-Panel. Guests: TBD
+* Panel with the SEAS Graduate Writing Advisor [Suzanne Smith](https://scholar.harvard.edu/suzannesmith/home){:target="_blank"}{:rel="noopener noreferrer"}, and with Ph.D. students [Thierry Tambe](https://scholar.harvard.edu/ttambe/home){:target="_blank"}{:rel="noopener noreferrer"} and Samuel Hsia.
