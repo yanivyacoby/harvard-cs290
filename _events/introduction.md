@@ -14,5 +14,6 @@ hide_from_announcments: true
 
 **In Class:**
 * Meet the G1 cohort
+* Discuss [shared worries + implied assumptions about expectations](https://docs.google.com/document/d/1K8hvvaL9XmoDkbzBFKALfp1l3WQVhooQ_pTSBQH5BbU/edit#){:target="_blank"}{:rel="noopener noreferrer"}
 * What is research? What skills are necessary to do research? What is this seminar about?
 * A brief guide to Harvard, and chat with G2s
