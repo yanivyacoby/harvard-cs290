@@ -37,6 +37,8 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 In addition to these regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
+<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showCalendars=1&showTabs=1&showTitle=1&mode=AGENDA&src=MXZwN2lmaHY1OG5pZnVuOTBicnJicGRoc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
+
 **Diversity, Inclusion and Belonging:** It is the mission of the teaching staff that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. We aim to create a learning environment that is inclusive and respectful of diversity: gender, sexuality, disability, age, socioeconomic status, ethnicity, race, and culture. Your suggestions for how to better our classroom community are always encouraged and appreciated.
 
 Since a large part of this course requires students to work in groups, in alignment with our teaching mission, we ask that students explicitly reflect on and implement practices for building teams that are diverse along many axes. The teaching staff is happy to help you brainstorm how to create an inclusive and productive working culture for your team. 
