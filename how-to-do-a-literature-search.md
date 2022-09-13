@@ -111,3 +111,17 @@ what you look for when reading it, and how to summarize it:
   * Assumptions the paper makes
   * Whether it could work in your setting, and why/why not
 
+
+### 4. Organizing your literature list
+
+Staying **organized** is key to ensure you don't waste time re-reading or re-searching papers in the future.
+There are many **tools** that can help you stay organized:
+* Zotero; helps you manage papers by saving them through a browser-extension, organize the papers, and create automatic citations
+* An old-fashioned document such as Google Docs, HackMD, or Overleaf
+* Google Scholar extension for forming easy BibTeX citations
+
+What do you write down for each paper? Here’s one example; there are many ways to do this, do what works for you. However, I would consider a successful approach one that lets you remember a paper without having to reopen/reread the paper! For each paper, you may consider: 
+* Problem statement (one sentence)
+* Relevance to my project (same problem, similar problem, or subproblem)?
+* Brief description: usually one sentence of contributions, or an expanded explanation of how it relates to my paper. 
+
