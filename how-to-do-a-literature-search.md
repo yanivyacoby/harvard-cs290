@@ -53,5 +53,26 @@ however, often you may not. This is normal -- consider asking colleagues/mentors
 (or for some keywords to avoid and why).
 Even better, they may be able to recommend you some relevant papers to start with.
 
+### 2. Finding papers
+
+There are two tricks to the art of finding relevant papers. 
+The first is very intuitive and involves growing your set of papers: 
+from your set of keywords, you can find papers via Google Scholar. 
+You may also choose to look up keyword + "lecture notes," "survey," or "blog" to give you a sense with what's long established in a field vs. what's recent/new. 
+
+If you find even a single relevant paper, you're in luck! 
+From this paper -- the "root" paper" -- you can quickly find others by: 
+* Following the “citation tree” **down** -- what other papers did the root paper cite?
+* Following the “citation tree” **up** -- what other papers have cited this one? Note: you can conduct this step by using the "cited by" link of a paper on Google Scholar. 
+Oftentimes, repeating this process recursively on papers you find by traversing the citation tree will yield a large number of potentially relevant papers.
+
+While following the citation tree, however, you may notice the number of tabs open in your browser growing at an unprecedented rate. 
+This is where the second trick comes in: learning to quickly identify whether or not a paper is relevant to your project. 
+*This not a trivial skill*, but it is an important one to develop, as it will *save you lots of time*. You can do this as follows:
+* The main question you need to ask yourself when you open a paper is: “Is this paper solving a problem that is related to my own?”
+* There are two places in the paper where the answer to this question may reveal itself: the abstract/introduction (what problem are they solving?) and the beginning of the methods/problem setting section (what formalism are they using to solve the problem and is this formalism valid in my setting?). 
+* While keywords are helpful, they are not perfect – so avoid depending them completely. For example:
+  * A paper that doesn’t use any of the keywords you are used to may actually solve a very similar problem. Their approach may be a completely different way of solving the same problem. 
+  * A paper that uses all the right keywords may have nothing to do with your problem! The paper may solve a problem that is too specific to relate to your setting or the keywords may have a different meaning in a different field (e.g. in statistics, the terms “fixed effects” and “random effects” carry different meanings depending on the sub-community).
 
 
