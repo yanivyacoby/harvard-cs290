@@ -116,11 +116,13 @@ what you look for when reading it, and how to summarize it:
 
 Staying **organized** is key to ensure you don't waste time re-reading or re-searching papers in the future.
 There are many **tools** that can help you stay organized:
-* Zotero; helps you manage papers by saving them through a browser-extension, organize the papers, and create automatic citations
-* An old-fashioned document such as Google Docs, HackMD, or Overleaf
-* Google Scholar extension for forming easy BibTeX citations
+* Citation managers (e.g. Zotero, Mendeley, EndNote) to help you manage papers by saving them through a *browser-extension*, organize the papers into folders/categories, and automatically create BibTeX files for your paper.
+* Since citation managers don't always export the correct publication info when exporting to BibTeX, you may *additionally* want to use the [Google Scholar extension](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en){:target="_blank"}{:rel="noopener noreferrer"}.
+* Documents to summarize the papers you read (e.g., a good old-fashioned Google Docs, HackMD, Overleaf, etc.)
 
-What do you write down for each paper? One approach you may consider is: 
+Your peers, collaborators and mentors may all have additional great suggestions for how they stay organized, and we recommend you ask them!
+
+So how should you summarize each paper? One approach you may consider is: 
 * Problem statement (one sentence)
 * Relevance to my project from above (same problem, similar problem, or sub-problem)?
 * Brief description: usually one sentence of contributions, or an expanded explanation of how it relates to my paper. 
