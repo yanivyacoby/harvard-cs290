@@ -77,3 +77,34 @@ We emphasize that *this not a trivial skill*, but it is an important one to deve
   * A paper that *uses all the right keywords* may in fact have nothing to do with your problem! The paper may solve a problem that is too specific to relate to your setting or the keywords may have a different meaning in a different field (e.g. in statistics, the terms "fixed effects" and "random effects" carry [different meanings](https://statmodeling.stat.columbia.edu/2005/01/25/why_i_dont_use/){:target="_blank"}{:rel="noopener noreferrer"} depending on the sub-community).
 
 
+### 3. Categorizing papers
+
+A paper can be relevant to your project in a variety of ways, and this may affect how much time you spend reading the paper,
+what you look for when reading it, and how to summarize it:
+
+**Category A:** provides motivation for your problem
+* TODO
+
+**Category B:** attempts to solve the same problem
+* What to read for: deep read for understanding (see [how to read a research paper]({{ site.baseurl }}/materials/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"})
+* How it relates to your paper: likely a baseline, contingent on how well your problem settings align 
+* What to include in your summary: 
+  * Sentence to describe the method
+  * Sentence on whether experiments support this result (and why), intuition on settings in which this method may not generalize
+  * Intuition on where you think the method shouldn’t work and 
+  * Search briefly for a codebase and include link
+
+**Category C:** attempts to solve a similar problem
+* What to read for: a contrastive sentence. This is a sentence that describes how the paper differs from your own/fails to solve the problem you’re solving: 
+  * Does the method rely on assumptions that wouldn’t generalize to your setting? 
+  * Does your setting have criteria that the paper is not designed to meet? 
+* How it relates to your paper: likely a part of your related works, you will use the contrastive sentence here too
+* What to include in your summary: (you guessed it!) the contrastive sentence. 
+
+**Category D:** attempts to solve a subproblem
+* What to read for: feasibility. Are the assumptions required for this method applicable to your own problem setting? 
+* How it relates to your paper: could inspire part of your methods/solution, or lead to papers that inspire part of your methods/solution
+* How to summarize: 
+  * Assumptions the paper makes
+  * Whether it could work in your setting, and why/why not
+
