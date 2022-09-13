@@ -83,14 +83,14 @@ A paper can be relevant to your project in a variety of ways, and this may affec
 what you look for when reading it, and how to summarize it:
 
 **Category A:** provides **motivation** for your problem
-* What to read for? A statement of the problem, why it's important, what's its significance. 
-* How it relates to your paper? you will likely reference it in your introduction, and it may inform your evaluation
+* What to read for? A **statement** of the problem, why it's **important/significant**.
+* How it relates to your paper? You will likely reference it in your **introduction**, and it may inform your evaluation
 * What to include in your summary?
-  * A sentence about the problem, its importance and its significance 
+  * A sentence about the problem, its importance/significance 
 
 **Category B:** attempts to solve the **same problem**
-* What to read for? A deep understanding (see [how to read a research paper]({{ site.baseurl }}/materials/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"})
-* How it relates to your paper? Likely a baseline, contingent on how well your problem settings align 
+* What to read for? A **deep** understanding (see [how to read a research paper]({{ site.baseurl }}/materials/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"})
+* How it relates to your paper? Likely a **baseline**, contingent on how well your problem settings align 
 * What to include in your summary?
   * A sentence that describes the method
   * A sentence about whether experiments support this result (and why), as well as intuition on settings in which this method may not generalize
@@ -98,14 +98,14 @@ what you look for when reading it, and how to summarize it:
   * You may additionally want to search briefly for a codebase and include link
 
 **Category C:** attempts to solve a **similar problem**
-* What to read for? A contrastive sentence, i.e. a sentence that describes how the paper differs from your research problem / fails to solve the problem you're solving: 
-  * Does the method rely on assumptions that wouldn't generalize to your setting? 
-  * Does your problem have criteria that the paper is not designed to meet? 
-* How it relates to your paper? Likely a part of your related works, in which you will use the contrastive sentence to relate their paper to your's
+* What to read for? A **contrastive** sentence -- a sentence that describes **how** the paper **differs** from your research problem or fails to solve your problem: 
+  * Does the method rely on **assumptions** that don't generalize to your setting? 
+  * Does your problem have other **criteria** that the paper is not designed to meet? 
+* How it relates to your paper? Likely a part of your **related works**, in which you will use the contrastive sentence to relate their paper to your's
 * What to include in your summary? (you guessed it!) the contrastive sentence. 
 
 **Category D:** attempts to solve a **subproblem**
-* What to read for? Feasibility -- are the assumptions required for this method applicable to your own problem setting? 
+* What to read for? **Feasibility** -- are the **assumptions** required for this method applicable to your own problem setting? 
 * How it relates to your paper? It could inspire part of your methods/solution, or lead you to other papers that inspire part of your methods/solution
 * How to summarize?
   * Assumptions the paper makes
