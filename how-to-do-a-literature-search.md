@@ -40,6 +40,8 @@ Broadly, one can break the literature search into four main components. We will 
   * **Out:** An organized set of papers (i.e. grouped by topic, with succinct descriptions)
   > **Tip:** This is possibly the most underrated part! Be realistic about tracking your papers *in a way that works for you*. Try to organize so that your future self can reference this list and get the main takeaways from each paper without cognitive overload (e.g. rereading the whole paper).
 
+<img width="50%" src="{{ "/_images/literature-search-overview.svg" | prepend: site.baseurl }}" valign="middle">
+
 ## The four components, in detail
 
 Your literature is an **active process**; as you are engaging in each component below, you should always be asking yourself **whether/how** this paper relates to your project and contribution. 
