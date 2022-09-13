@@ -30,6 +30,7 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
   2. What does your advisor expect from you in your first year?
   3. How can you be supportive of your peers?
 * [How to read a research paper]({{ site.baseurl }}/materials/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
+* [how to do a literature search]({{ site.baseurl }}/materials/how-to-do-a-literature-search){:target="_blank"}{:rel="noopener noreferrer"}
 * [How to communicate about weekly progress with your collaborators]({{ site.baseurl }}/materials/communication-in-collaborative-environments){:target="_blank"}{:rel="noopener noreferrer"}
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html){:target="_blank"}{:rel="noopener noreferrer"}
 * How to (and how not to) review a paper:
