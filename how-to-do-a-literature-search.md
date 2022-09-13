@@ -40,4 +40,18 @@ Broadly, one can break the literature search into four main components. We will 
   * **Out:** An organized set of papers (i.e. grouped by topic, with succinct descriptions)
   > **Tip:** This is possibly the most underrated part! Be realistic about tracking your papers *in a way that works for you*. Try to organize so that your future self can reference this list and get the main takeaways from each paper without cognitive overload (e.g. rereading the whole paper).
 
+## The four components, in detail
+
+Your literature is an **active process**; as you are engaging in each component below, you should always be asking yourself **whether/how** this paper relates to your project and contribution. 
+
+### 1. Refining your search criteria
+
+At this first step of the literature search, you probably have a rough idea of what kind of problem setting you're in but need precision to best utilize search engines like Google Scholar. This is the part where you associate your broad question with a set of **keywords**. 
+
+Sometimes you may stumble upon the appropriate keywords with a few minutes of searching on google;
+however, often you may not. This is normal -- consider asking colleagues/mentors in the relevant field for a suggested set of keywords
+(or for some keywords to avoid and why).
+Even better, they may be able to recommend you some relevant papers to start with.
+
+
 
