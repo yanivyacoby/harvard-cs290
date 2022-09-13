@@ -113,6 +113,7 @@ what you look for when reading it, and how to summarize it:
   * Assumptions the paper makes
   * Whether it could work in your setting, and why/why not
 
+<img src="{{ "/_images/categorizing-papers.svg" | prepend: site.baseurl }}" valign="middle" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
 
 ### 4. Organizing your literature list
 
