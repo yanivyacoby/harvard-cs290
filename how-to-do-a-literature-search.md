@@ -72,8 +72,8 @@ This is where the **second** trick comes in: learning to **quickly identify** wh
 We emphasize that *this not a trivial skill*, but it is an important one to develop, as it will *save you lots of time*. You can do this as follows:
 * The **main question** you should ask yourself when opening a paper is: "Is this paper solving a problem that is related to my own?"
 * There are **two places** in a paper where you're most likely to find the answer: the abstract/introduction (what problem are they solving?) and the beginning of the methods/problem setting section (what formalism are they using to solve the problem? and is this formalism valid for your setting?). 
-* While keywords are helpful, *they are not perfect* – so avoid depending them completely. For example:
-  * A paper that doesn't use any of the keywords you identified may actually solve a very similar problem, though from a completely different perspective. 
-  * A paper that uses all the right keywords may have nothing to do with your problem! The paper may solve a problem that is too specific to relate to your setting or the keywords may have a different meaning in a different field (e.g. in statistics, the terms "fixed effects" and "random effects" carry [different meanings](https://statmodeling.stat.columbia.edu/2005/01/25/why_i_dont_use/){:target="_blank"}{:rel="noopener noreferrer"} depending on the sub-community).
+* While keywords are helpful, **they are not perfect**, so avoid depending them completely. For example:
+  * A paper that *doesn't use any of the keywords you identified* may actually solve a very similar problem, though from a completely different perspective. 
+  * A paper that *uses all the right keywords* may in fact have nothing to do with your problem! The paper may solve a problem that is too specific to relate to your setting or the keywords may have a different meaning in a different field (e.g. in statistics, the terms "fixed effects" and "random effects" carry [different meanings](https://statmodeling.stat.columbia.edu/2005/01/25/why_i_dont_use/){:target="_blank"}{:rel="noopener noreferrer"} depending on the sub-community).
 
 
