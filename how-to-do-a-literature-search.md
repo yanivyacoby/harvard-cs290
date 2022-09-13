@@ -20,5 +20,24 @@ through **deliberate** and **guided** practice, you will improve at these skills
 In this guide, we provide you with a strategy to get you started.
 
 
-## Overview
+## Overview: the ins-and-outs of a literature search
+
+Broadly, one can break the literature search into four main components. We will provide an overview for them here, and a more detailed strategy in the following section:
+1. Refining your search criteria to better utilize search engines (e.g. Google Scholar)
+ * In: A project topic, probably a high-level motivation and desired outcome
+ * Out: A set of keywords that will lead to relevant papers in a google search
+ > Main tip: Ask other people familiar with your line of work for a suggested set of keywords
+2. Finding papers
+  * In: A set of keywords 
+  * Out: A broad, unstructured list of relevant papers
+  > Main tip: Your papers will likely come from googling key words, searching up the citation tree (i.e. what papers cited this one?), and searching down the citation tree (i.e. what papers did this one cite?). The hardest part here is being able to quickly deduce whether or not the paper is relevant at all (likely from skimming the abstract/introduction)! 
+3. Categorizing a paper: 
+  * In: A paper from your broad list of papers
+  * Out: A categorization of how this paper relates to your project, and an idea of how much time to devote reading it
+  > Main tip: Decide whether the paper motivates your problem, solves the same problem (read for understanding), a similar problem (read for contrastive sentence), or a subproblem (read for assumptions/feasibility in your setting)? 
+4. Organizing your literature list
+  * In: A set of categorized papers 
+  * Out: An organized set of papers (i.e. grouped by topic, with succinct descriptions)
+  > Main tip: This is possibly the most underrated part! Be realistic about tracking your papers in a way that works for you. Try to organize so that your future self can reference this list and get the main takeaways from each paper without cognitive overload (e.g. rereading the whole paper).
+
 
