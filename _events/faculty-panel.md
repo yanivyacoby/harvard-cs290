@@ -11,4 +11,4 @@ hide_from_announcments: true
 
 **In Class:**
 * Faculty panel on their expectations of students and experiences as students
-* Guests: [Professor James Mickens](https://mickens.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}, [Professor Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html){:target="_blank"}{:rel="noopener noreferrer"}
+* Guests: Professors [James Mickens](https://mickens.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}, [Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html){:target="_blank"}{:rel="noopener noreferrer"}
