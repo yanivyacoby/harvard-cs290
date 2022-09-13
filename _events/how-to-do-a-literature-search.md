@@ -12,4 +12,4 @@ hide_from_announcments: true
 * Bring a problem statement for a current/previous research project
 
 **In Class:**
-* Practice doing a literature search
+* [How to do a literature search]({{ site.baseurl }}/materials/how-to-do-a-literature-search){:target="_blank"}{:rel="noopener noreferrer"}
