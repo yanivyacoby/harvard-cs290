@@ -10,5 +10,5 @@ hide_from_announcments: true
 * TBD
 
 **In Class:**
-* Debugging unhealthy self-expectations 
+* Panel on debugging unhealthy self-expectations 
 * Special note: *no faculty present*
