@@ -20,7 +20,7 @@ through **deliberate** and **guided** practice, you will improve at these skills
 In this guide, we provide you with a strategy to get you started.
 
 
-## Overview: the ins-and-outs of a literature search
+## Overview: the ins-and-outs (or inputs and outputs) of a literature search
 
 Broadly, one can break the literature search into four main components. We will provide an overview for them here, and a more detailed strategy in the following section:
 1. **Refining** your search criteria to better utilize search engines (e.g. Google Scholar):
