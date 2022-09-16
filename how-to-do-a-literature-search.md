@@ -1,4 +1,4 @@
-blog---
+---
 layout: page
 title: How to do a Literature Search
 permalink: /materials/how-to-do-a-literature-search/
