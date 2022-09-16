@@ -65,6 +65,8 @@ Note that it is important we are conscious about our citation practices so that 
 As such, we additionally ask you to familiarize yourself with scholars in your field who are from minoritized backgrounds,
 and to specifically look at their work when conducting your literature search. 
 
+> **Tip:** If a paper is behind a paywall, you probably can still access it via Harvard Hollis. Follow [these instructions](https://library.harvard.edu/services-tools/check-harvard-library-bookmark){:target="_blank"}{:rel="noopener noreferrer"} to set up convenient access.
+
 If you find even a **single relevant paper**, you're in luck! 
 From this paper -- the "root" paper" -- you can quickly find others by: 
 * **Following the “citation tree” down** -- what other papers did the root paper cite?
