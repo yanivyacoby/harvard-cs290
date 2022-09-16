@@ -61,7 +61,7 @@ There are **two tricks** to the art of finding relevant papers.
 The **first** is very intuitive and involves growing your set of papers: 
 from your set of keywords, you can find papers (e.g. via Google Scholar). 
 You may also choose to look up keyword + "lecture notes," "survey," or "blog" to give you a sense with what's long established in a field vs. what's recent/new. 
-Note that it is important we are conscious about your citation practices so that we do not [further perpetuate systemic inequities in our scientific communities](https://rurisi.com/citation-guide){:target="_blank"}{:rel="noopener noreferrer"}. 
+Note that it is important we are conscious about our citation practices so that we do not [further perpetuate systemic inequities in our scientific communities](https://rurisi.com/citation-guide){:target="_blank"}{:rel="noopener noreferrer"}. 
 As such, we additionally ask you to familiarize yourself with scholars in your field who are from minoritized backgrounds,
 and to specifically look at their work when conducting your literature search. 
 
