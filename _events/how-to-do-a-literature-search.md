@@ -11,5 +11,5 @@ hide_from_announcments: true
 * Reflect on your own literature search strategy
 * Bring a problem statement for a current/previous research project
 
-**In Class:**
+**In Class:** \[[slides](https://docs.google.com/presentation/d/1i6_H-NZ3pDQdovg_cvTt4eS_xogvwCEV7yCilD92nxM/edit#slide=id.p){:target="_blank"}{:rel="noopener noreferrer"}\]
 * [How to do a literature search]({{ site.baseurl }}/materials/how-to-do-a-literature-search){:target="_blank"}{:rel="noopener noreferrer"}
