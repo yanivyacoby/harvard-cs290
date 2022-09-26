@@ -9,7 +9,7 @@ hide_from_announcments: true
 **Pre-class Work:** (instructions on canvas)
 * Create a slide to introduce yourself, answer survey
 * Read and answer questions about:
-  * [Read The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3){:target="_blank"}{:rel="noopener noreferrer"}
+  * [The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3){:target="_blank"}{:rel="noopener noreferrer"}
   * [What you should know about us (the course staff)]({{ site.baseurl }}/what-you-should-know-about-us){:target="_blank"}{:rel="noopener noreferrer"}
 
 **In Class:** \[[slides](https://docs.google.com/presentation/d/1Mal6OeGr5pl60iXjVjWIwG764Bn2E2JFxKAui0E4xFo/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
