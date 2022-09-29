@@ -5,13 +5,37 @@ permalink: /materials/communication-in-collaborative-environments/
 ---
 
 Good communication practices in collaborative environments are vital. 
-Whether in group meetings, 1-on-1s with your advisor / collaborators, 
+Whether in group meetings, 1-on-1s with your advisor(s) / collaborators, 
 spontaneous blackboard brainstorming sessions, good communication practices will help you get you unstuck, 
 come up with new directions, as well as get clearer and more structured feedback on your work, etc. 
 As such, it is important to stay organized and be proactive about soliciting feedback from your collaborators. 
 
-In this guide, we provide (a) general tips about how to run meetings, 
-and (b) a step-by-step template for running your meetings to get you started.
+In this guide, we provide (a) myths about your collaborators' expectations,
+(b) general tips about how to run meetings, 
+and (c) a step-by-step template for running your meetings to get you started.
+
+## Myths about Your Collaborators' Expectations 
+
+While each collaborator / lab may vary, there are some common myths important to debunk in order to have productive meetings.
+
+**Myth 1: Your collaborators remember what your project is about, and where you left off.**
+Your collaborators are likely incredibly busy people, managing many projects.
+Even if some collaborators do remember, many (if not most) do not.
+This *does not* mean they don't care about your project;
+it just means you have to provide them with the necessary context for them to be helpful to you (see the guide below).
+
+**Myth 2: Your collaborators are evaluating the quantity results you present.**
+Your collaborators' goal is to help you drive your project and get you unstuck.
+They are likely not evaluating you based on the quantity of results you present.
+You therefore do not have to have results to present at every meeting -- you can use your meetings for brainstorming, discussion, etc.
+
+**Myth 3: Your collaborators will be disappointed if you do not present positive results.**
+Negative results are expected and are *more common* than positive results.
+More importantly, negative results will help you come up with a *hypothesis* to test next, making them invaluable.
+
+**Myth 4: Your collaborators are so smart they could understand your plots/theorems without explanations.**
+No one will understand your results without proper context and guidence, no matter how "smart" they are!
+
 
 
 ## General Tips
@@ -29,7 +53,7 @@ and (b) a step-by-step template for running your meetings to get you started.
 
 ### **Step 1:** Outline
 
-* Start by **outlining** what you will be discussing in this meeting, as well as what **feedback** you are specifically hoping to get from your collaborators.
+* Start by **outlining** what you will be discussing in this meeting, as well as what **feedback** you are specifically hoping to get from your collaborators. This will help your collaborators help you manage the time so you get all the feedback you need.
 * Your meeting-time can be used in a variety of ways -- unstructured thinking (e.g. formulating a research question, coming up with new projects or directions), active work on trying to make progress (e.g. debugging, diagnosing strange results, sketching a proof idea, designing an experiment), discussing a relevant paper you all read, soliciting feedback on writing, etc. -- just be clear from the start what the goal of the meeting is.
 > **Tip:** If giving an update on progress you've made since the last meeting, you can use language like, "In this meeting, I was hoping to discuss three things: \_\_\_\_. I would really appreciate your feedback on \_\_\_\_. Before I recap the progress we've made so far, does that sound good to everyone? and is there anything else that folks would like to discuss?"
 
