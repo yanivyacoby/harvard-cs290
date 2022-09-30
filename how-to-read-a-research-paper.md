@@ -24,7 +24,6 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 * **Don't read font-to-back -- read for answers to the "guiding questions" instead.** For every paper, answer the "guiding questions" below -- answers to these questions will allow you to construct a **story / narrative** the paper is telling.
 * **Read actively.** Reading a paper is not a passive process. Compare what the paper says with what you already know, and when you find a contradiction, try to understand where it comes from (e.g., an assumption?). Draw pictures / diagrams of what the paper describes as you're reading to check your understanding against the paper -- often you'll find that in doing so, you will be able to translate a general feeling of confusion into concrete questions that, if resolved, will give you a clear understanding of the paper. 
 * **When confused...** You may be missing information assumed to be "commonly known" by the intended research community / audience. We recommend that you try to **fill in the gap** by looking for related papers (e.g. ones cited by the paper you’re reading, ones that share key-terms on google), wikipedia pages, blog-posts, lectures on youtube, etc. For papers that are very long, you may additionally find shorter conference versions that convey the general story more concisely and may contain all you need. There’s no formula here, but going back and forth between reading related material and the original paper of interest can help you get unstuck.
-* 
 
 ### Stay organized -- keep track of what you’ve already read:
 * Save your future-self time and take notes that will help you dig deeper every time you re-visit the paper. 
@@ -51,18 +50,16 @@ By practicing answering these questions for every paper you read, you will pract
 
 ### What kind of paper are you reading? 
 By understanding the type of the paper, you can ancitipate its structure and evaluation, which will help you determine which parts to focus on during your initial skim.
-* If non-theory paper:
-  * Big idea 
-  * Unifying theme 
-  * Small idea with evaluation (most papers)
-  * Measurement
-  * Comparison
-  * Retrospective or experience paper
-* If theory paper:
-  * Proposes a new model or type of problem for study (focus on formal definitions)
-  * Solves a known open problems (focus on formal definitions)
-  * Clarifies or simplifies our understanding of a known result or phenomenon
-  * New techniques for proofs
+* Big idea 
+* Unifying theme 
+* Small idea with evaluation (most papers)
+* Measurement
+* Comparison
+* Retrospective or experience paper
+* Proposes a new model or type of problem for study (focus on formal definitions)
+* Solves a known open problems (focus on formal definitions)
+* Clarifies or simplifies our understanding of a known result or phenomenon
+* New techniques for proofs
 
 ### Motivation and Potential Impact 
 * What is the problem the paper addresses?
