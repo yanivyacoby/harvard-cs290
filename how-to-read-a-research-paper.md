@@ -18,12 +18,13 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
 
 ## Paper-Reading Strategies
 
-### Research papers are **not** meant to be read top-to-bottom, like a book. 
+### Research papers are **not** meant to be read font-to-back, like a novel. 
 * **First, skim.** Focus on the **high-level ideas**, jot down high-level questions you may have about the **story** told by the paper. Try not to get bogged down by details. 
 * **Then, a deeper read** (if the paper seems relevant). 
-* **Don't read top-down -- read for answers to the "guiding questions" instead.** For every paper, answer the "guiding questions" below -- answers to these questions will allow you to construct a **story / narrative** the paper is telling.
+* **Don't read font-to-back -- read for answers to the "guiding questions" instead.** For every paper, answer the "guiding questions" below -- answers to these questions will allow you to construct a **story / narrative** the paper is telling.
 * **Read actively.** Reading a paper is not a passive process. Compare what the paper says with what you already know, and when you find a contradiction, try to understand where it comes from (e.g., an assumption?). Draw pictures / diagrams of what the paper describes as you're reading to check your understanding against the paper -- often you'll find that in doing so, you will be able to translate a general feeling of confusion into concrete questions that, if resolved, will give you a clear understanding of the paper. 
-* **When confused...** You may be missing information assumed to be "commonly known" by the intended research community / audience. We recommend that you try to **fill in the gap** by looking for related papers (e.g. ones cited by the paper you’re reading, ones that share key-terms on google), wikipedia pages, blog-posts, lectures on youtube, etc. There’s no formula here, but going back and forth between reading related material and the original paper of interest can help you get unstuck.
+* **When confused...** You may be missing information assumed to be "commonly known" by the intended research community / audience. We recommend that you try to **fill in the gap** by looking for related papers (e.g. ones cited by the paper you’re reading, ones that share key-terms on google), wikipedia pages, blog-posts, lectures on youtube, etc. For papers that are very long, you may additionally find shorter conference versions that convey the general story more concisely and may contain all you need. There’s no formula here, but going back and forth between reading related material and the original paper of interest can help you get unstuck.
+* 
 
 ### Stay organized -- keep track of what you’ve already read:
 * Save your future-self time and take notes that will help you dig deeper every time you re-visit the paper. 
