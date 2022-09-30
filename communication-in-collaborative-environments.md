@@ -27,7 +27,7 @@ it just means you have to provide them with the necessary context for them to be
 **Myth 2: Your collaborators are evaluating the quantity results you present.**
 Your collaborators' goal is to help you drive your project and get you unstuck.
 They are likely not evaluating you based on the quantity of results you present.
-You therefore do not have to have results to present at every meeting -- you can use your meetings for brainstorming, discussion, etc.
+You therefore do not have to have complete results to present at every meeting -- you can use your meetings to present partial results, brainstorm, discuss papers you read, ask questions, outline a paper, get feedback on a draft, etc.
 
 **Myth 3: Your collaborators will be disappointed if you do not present positive results.**
 Negative results are expected and are *more common* than positive results.
