@@ -14,7 +14,7 @@ In this guide, we provide (a) myths about your collaborators' expectations,
 (b) general tips about how to run meetings, 
 and (c) a step-by-step template for running your meetings to get you started.
 
-## Myths about Your Collaborators' Expectations 
+## Myths About Your Collaborators' Expectations 
 
 While each collaborator / lab may vary, there are some common myths important to debunk in order to have productive meetings.
 
