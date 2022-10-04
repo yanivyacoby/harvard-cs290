@@ -32,7 +32,7 @@ We hope that you will find it useful, and encourage you to ask your peers, colle
   - Keeping a **searchable doc** (e.g. Evernote) in which you summarize the paper / answer the paper-reading questions below -- this will help you pick up a paper where you left off.
   - Using a **citation manager** (e.g. Zotero) to keep lists of paper and easily create latex bibliographies -- this will save you time when writing your own paper.
 * For every paper, especially focus on recording:
-  - The “big ideas”
+  - The "big ideas"
   - Relevant buzz words
   - Story / narrative (answers to the "guiding questions")
 
@@ -49,21 +49,23 @@ Whether you are skimming or deep-reading, these guiding questions will help you 
 By practicing answering these questions for every paper you read, you will practice quickly honing in on the meaning behind the paper instead of being bogged down by details. 
 
 ### What kind of paper are you reading? 
-By understanding the type of the paper, you can ancitipate its structure and evaluation, which will help you determine which parts to focus on during your initial skim.
+By understanding the type of the paper, you can ancitipate its structure and evaluation, which will help you determine which parts to 
+on during your initial skim.
 * Big idea 
 * Unifying theme 
 * Small idea with evaluation (most papers)
 * Measurement
 * Comparison
 * Retrospective or experience paper
-* Proposes a new model or type of problem for study (focus on formal definitions)
-* Solves a known open problems (focus on formal definitions)
+* Proposes a new model or type of problem for study 
+* Solves a known open problems
 * Clarifies or simplifies our understanding of a known result or phenomenon
 * New techniques for proofs
 
 ### Motivation and Potential Impact 
 * What is the problem the paper addresses?
 * Why is this problem important?
+* If a theory paper, what are the formal definitions and how well do they capture the phenomenon of interest?
 
 ### Related Work and Contributions 
 * How is the problem traditionally solved?
