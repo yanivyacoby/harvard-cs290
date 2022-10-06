@@ -11,5 +11,5 @@ hide_from_announcments: true
 * Read [Computing and Accountability](https://dl.acm.org/doi/10.1145/175222.175228){:target="_blank"}{:rel="noopener noreferrer"} and answer reflection questions.
 
 **In Class:**
-* Guest: [Dr. Trystan Goetze](https://www.trystangoetze.ca/){:target="_blank"}{:rel="noopener noreferrer"} ([Embedded EthiCS](https://embeddedethics.seas.harvard.edu/)){:target="_blank"}{:rel="noopener noreferrer"}
+* Guest: [Dr. Trystan Goetze](https://www.trystangoetze.ca/){:target="_blank"}{:rel="noopener noreferrer"} ([Embedded EthiCS](https://embeddedethics.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"})
 
