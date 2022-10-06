@@ -2,7 +2,7 @@
 type: raw_event
 date: 2022-10-21T09:00:00
 name: Class
-description: 'Research in Context (Embedded EthiCS)'
+description: 'Moral and Professional Responsibility in Computing ([Embedded EthiCS](https://embeddedethics.seas.harvard.edu/)){:target="_blank"}{:rel="noopener noreferrer"}'
 hide_from_announcments: true
 ---
 
