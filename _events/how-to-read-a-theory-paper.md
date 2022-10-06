@@ -13,4 +13,4 @@ hide_from_announcments: true
 **In Class:**
 * Guest: [Professor Salil Vadhan](https://salil.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}
 * Reflect on your own strategy reading more theoretical papers
-* Practice new strategies for reading theory papers
+* Practice new strategies on [Lower bounds for maximal matchings and maximal independent sets](https://arxiv.org/abs/1901.02441){:target="_blank"}{:rel="noopener noreferrer"}
