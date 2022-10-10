@@ -77,3 +77,25 @@ No one will understand your results without proper context and guidence, no matt
 * After you’ve given your update and solicited feedback from your collaborators, be sure to discuss **next steps**. 
 * Lastly, before the meeting ends, **summarize** the next steps agreed on. This will help **prevent miscommunication**. 
 > **Tip:** use language like, "Based on your feedback, it sounds like the next priority items on my agenda are \_\_\_\_. Does that sound good to everyone?". 
+
+
+## Frequently Asked Questions
+
+**What do you do if your collaborators give you too many suggestions (e.g. too many to finish by your next meeting)?**
+You can ask your collaborators which of their suggestions to prioritize in case you won't get to all of them by the next meeting.
+This will help ensure your collaborators are happy with how you're spending your time.
+
+**What do you do if your collaborators ask you questions that feel vague, or provide you with vague feedback?**
+You can try to summarize their question/comment (to the best of your ability) and then ask them, "is this what you meant"?
+In this way, you give your collaborators the most information about *where* they lost you.
+
+**What do you do if you're no longer sure what your project is about?**
+It's totally normal for your problem statement to change over the course of time, and it's natural to be confused about what it is (and how your day-to-day work relates to it). 
+If you find yourself in this situation, feel free to ask! You may ask questions like, "can we recap the general narrative of the project?"
+
+**When should I give written updates vs. verbal updates?**
+We recommend asking your collaborators when they would like a written update
+
+**What do you do if you finish your meeting ahead of time?**
+You can let your collaborators know you have nothing more to discuss, check with them if they have anything they wanted to talk about, and if not, simply end the meeting early! Your collaborators will appreciate efficiently run meetings.
+Alternatively, you can also take the opportunity to ask your collaborators questions that are a bit outside the scope of the project, or if appropriate in your context, you may choose to ask them for career/professional advice. 
