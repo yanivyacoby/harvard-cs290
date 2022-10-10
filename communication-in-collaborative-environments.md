@@ -99,7 +99,8 @@ It's totally normal for your problem statement to change over the course of time
 If you find yourself in this situation, feel free to ask! You may ask questions like, "can we recap the general narrative of the project?"
 
 **When should I give written updates vs. verbal updates?**
-We recommend asking your collaborators when they would like a written update
+We recommend writing one when you or your collaborators would find it useful. 
+This will often happen once you've done enough work to necessitate a summary in order to see the bigger picture.
 
 **What do you do if you finish your meeting ahead of time?**
 You can let your collaborators know you have nothing more to discuss, check with them if they have anything they wanted to talk about, and if not, simply end the meeting early! Your collaborators will appreciate efficiently run meetings.
