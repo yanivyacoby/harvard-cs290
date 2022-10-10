@@ -14,6 +14,8 @@ In this guide, we provide (a) myths about your collaborators' expectations,
 (b) general tips about how to run meetings, 
 and (c) a step-by-step template for running your meetings to get you started.
 
+<br/>
+
 ## Myths About Your Collaborators' Expectations 
 
 While each collaborator / lab may vary, there are some common myths important to debunk in order to have productive meetings.
@@ -38,6 +40,7 @@ More importantly, negative results will help you come up with a *hypothesis* to 
 No one will understand your results without proper context and guidence, no matter how "smart" they are!
 
 
+<br/>
 
 ## General Tips
 
@@ -49,8 +52,9 @@ No one will understand your results without proper context and guidence, no matt
   * **Tip:** Having visual aids for the meeting can be incredibly helpful. Google docs and google slides make it easy to share notes and figures. For sharing more math-heavy notes, consider using something like hackmd.io, which allows you to mix markdown with LaTeX. By using one of these collaborative online tools, your collaborators can also leave you comments as they look through your meeting materials.  
 4. **After the meeting**, message all of your collaborators with the **agreed-upon** next steps to make sure everyone is on the same page.  
 
+<br/>
 
-## Step-by-Step Template for Running Your Meeting
+## A Step-by-Step Template for Running Your Meeting
 
 ### **Step 1:** Outline
 
@@ -78,6 +82,7 @@ No one will understand your results without proper context and guidence, no matt
 * Lastly, before the meeting ends, **summarize** the next steps agreed on. This will help **prevent miscommunication**. 
 > **Tip:** use language like, "Based on your feedback, it sounds like the next priority items on my agenda are \_\_\_\_. Does that sound good to everyone?". 
 
+<br/>
 
 ## Frequently Asked Questions
 
