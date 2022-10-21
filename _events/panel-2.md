@@ -10,5 +10,5 @@ hide_from_announcments: true
 * TBD
 
 **In Class:**
-* Panel on managing advising relationships with: [Zana Buçinca](https://zbucinca.owlstown.net/), [Sanket Shah](https://sanketkshah.github.io/), and Chelse Swoopes.
+* Panel on managing advising relationships with: [Zana Buçinca](https://zbucinca.owlstown.net/){:target="_blank"}{:rel="noopener noreferrer"}, [Sanket Shah](https://sanketkshah.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and Chelse Swoopes.
 * Special note: *no faculty present*
