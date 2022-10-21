@@ -13,5 +13,5 @@ hide_from_announcments: true
 * Answer reflection questions, and think of questions to ask the panel
 
 **In Class:**
-* Panel on debugging unhealthy self-expectations 
+* Panel on debugging unhealthy self-expectations with: [Bahareh Tolooshams](https://btolooshams.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [James Larisch](https://jameslarisch.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Eura Shin](https://eurashin.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Paula Rodriguez Diaz](https://paularodrid.wordpress.com/){:target="_blank"}{:rel="noopener noreferrer"}
 * Special note: *no faculty present*
