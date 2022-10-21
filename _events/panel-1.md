@@ -7,7 +7,10 @@ hide_from_announcments: true
 ---
 
 **Pre-class Work:** (instructions on canvas)
-* TBD
+* Read:
+  * [How to make the most out of your PhD: A guide from current to incoming students](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html){:target="_blank"}{:rel="noopener noreferrer"} 
+  * [Graduate Student Adjustment to Academic Life A Four-Stage Framework](https://www.tandfonline.com/doi/abs/10.1080/00220973.1991.11072201){:target="_blank"}{:rel="noopener noreferrer"}  (Note: the words competent/incompetent in the article are technical jargon from the learning and cognition literature. As such, you should not interpret them using their colloquial meanings; we instead encourage you to think of these terms more as novice/expert).
+* Answer reflection questions, and think of questions to ask the panel
 
 **In Class:**
 * Panel on debugging unhealthy self-expectations 
