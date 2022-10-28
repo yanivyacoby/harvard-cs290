@@ -12,4 +12,4 @@ hide_from_announcments: true
 
 **In Class:**
 * Faculty panel about their expectations of students and experiences as students, as well as about their experiences as faculty
-* Guests: Professors [James Mickens](https://mickens.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}, [Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html){:target="_blank"}{:rel="noopener noreferrer"}, [Stephen Chong](https://people.seas.harvard.edu/~chong/){:target="_blank"}{:rel="noopener noreferrer"}
+* Guests: Professors [James Mickens](https://mickens.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}, [Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html){:target="_blank"}{:rel="noopener noreferrer"}, [Stephen Chong](https://people.seas.harvard.edu/~chong/){:target="_blank"}{:rel="noopener noreferrer"}, and [Flavio du Pin Calmon](https://people.seas.harvard.edu/~flavio/){:target="_blank"}{:rel="noopener noreferrer"}.
