@@ -11,5 +11,5 @@ hide_from_announcments: true
 * Answer reflection questions, and think of questions to ask the faculty. 
 
 **In Class:**
-* Faculty panel on their expectations of students and experiences as students
+* Faculty panel about their expectations of students and experiences as students, as well as about their experiences as faculty
 * Guests: Professors [James Mickens](https://mickens.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}, [Elena Glassman](https://glassmanlab.seas.harvard.edu/glassman.html){:target="_blank"}{:rel="noopener noreferrer"}, [Stephen Chong](https://people.seas.harvard.edu/~chong/){:target="_blank"}{:rel="noopener noreferrer"}
