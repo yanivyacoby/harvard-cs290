@@ -139,6 +139,7 @@ We hope that some of these resources can help with understanding mental health c
 
 * [Report of the Task Force on Managing Student Mental Health at Harvard](https://provost.harvard.edu/files/provost/files/report_of_the_task_force_on_managing_student_mental_health.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 * [The Ph.D. Experience: A review of the factors influencing doctoral students' completion, achievement, and well-being](http://ijds.org/Volume13/IJDSv13p361-388Sverdlik4134.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+* Asking for help might actually increase your colleague's well-being: [Surprisingly Happy to Have Helped: Underestimating Prosociality Creates a Misplaced Barrier to Asking for Help](https://pubmed.ncbi.nlm.nih.gov/36067802/){:target="_blank"}{:rel="noopener noreferrer"}
 * [“I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough”: Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing](https://vanderbilt.app.box.com/s/fs7j3c4m7l8mkprmqywrzds0iwuizi9k){:target="_blank"}{:rel="noopener noreferrer"}
 * [“Black Genius, Asian Fail”: The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students](https://journals.sagepub.com/doi/full/10.1177/2332858418816658){:target="_blank"}{:rel="noopener noreferrer"}
 * [For some graduate students, the cost of doing science is their mental health](https://whyy.org/segments/for-some-graduate-students-the-cost-of-doing-science-is-their-mental-health/){:target="_blank"}{:rel="noopener noreferrer"}
