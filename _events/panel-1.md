@@ -2,7 +2,7 @@
 type: raw_event
 date: 2022-10-28T09:00:00
 name: Class
-description: 'Student-only Panel'
+description: 'Student-only Panel: Debugging Unhealthy Self-expectations'
 hide_from_announcments: true
 ---
 
