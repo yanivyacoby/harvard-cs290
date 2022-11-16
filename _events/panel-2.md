@@ -2,7 +2,7 @@
 type: raw_event
 date: 2022-11-11T09:00:00
 name: Class
-description: 'Student-only Panel'
+description: 'Student-only Panel: Managing Advising Relationships'
 hide_from_announcments: true
 ---
 
