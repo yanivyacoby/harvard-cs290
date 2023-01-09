@@ -30,17 +30,12 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
-                    <p style="margin-bottom: 0px;">
-                        <a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a>
-                        {% if ins.term %}
-                        [{{ ins.term }}]
-                        {% endif %}
-                    </p>
+                    <p style="margin-bottom: 0px;"><a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a></p>
                     {% else %}
-                    <p style="margin-bottom: 0px;">
-                        {{ins.name}}
+                    <p style="margin-bottom: 0px;">{{ins.name}}</p>
+                    <p>
                         {% if ins.term %}
-                        [{{ ins.term }}]
+                        [{{ ins.term }} only]
                         {% endif %}
                     </p>
                     {% endif %}
@@ -59,20 +54,15 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
-                    <p style="margin-bottom: 0px;">
-                        <a href="{{ ta.webpage }}" target="_blank">{{ta.name}}</a>
-                        {% if ta.term %}
-                        [{{ ta.term }}]
-                        {% endif %}
-                    </p>
+                    <p style="margin-bottom: 0px;"><a href="{{ ta.webpage }}" target="_blank">{{ta.name}}</a></p>
                     {% else %}
-                    <p style="margin-bottom: 0px;">
-                        {{ta.name}}
+                    <p style="margin-bottom: 0px;">{{ta.name}}</p>
+                    {% endif %}
+                    <p>
                         {% if ta.term %}
                         [{{ ta.term }}]
                         {% endif %}
                     </p>
-                    {% endif %}
                     {% if ta.pronouns %}
                     <p>({{ta.pronouns}})</p>
                     {% endif %}
