@@ -25,7 +25,7 @@ layout: default
             </div> -->
 
             <div class="profile-pic-gallary ">
-                <h2>Instructors</h2>
+                <h2>Course Staff</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
@@ -45,27 +45,7 @@ layout: default
             </div>
         </div>
 
-        <div style="width:100%; float: left">
-            <div class="profile-pic-gallary ">
-                <h2>Teaching Assistants</h2>
-                {% for ta in site.data.people.teaching_assistants %}
-                <div class="image--cover-container">
-                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ta.webpage %}
-                    <p style="margin-bottom: 0px;"><a href="{{ ta.webpage }}" target="_blank">{{ta.name}}</a></p>
-                    {% else %}
-                    <p style="margin-bottom: 0px;">{{ta.name}}</p>
-                    {% endif %}                    
-                    {% if ta.term %}
-                    <p style="margin-bottom: 0px;">[{{ ta.term }} term]</p>
-                    {% endif %}                    
-                    {% if ta.pronouns %}
-                    <p>({{ta.pronouns}})</p>
-                    {% endif %}
-                </div>
-                {% endfor %}
-            </div>
-        </div>
+        
     </div>
     
     <br style="clear:both">
