@@ -35,9 +35,7 @@ layout: default
                     <p style="margin-bottom: 0px;">{{ins.name}}</p>                    
                     {% endif %}                    
                     {% if ins.term %}
-                    <p>
-                        [{{ ins.term }} only]
-                    </p>
+                    <p style="margin-bottom: 0px;">[{{ ins.term }} term]</p>
                     {% endif %}                    
                     {% if ins.pronouns %}
                     <p>({{ins.pronouns}})</p>
@@ -59,9 +57,7 @@ layout: default
                     <p style="margin-bottom: 0px;">{{ta.name}}</p>
                     {% endif %}                    
                     {% if ta.term %}
-                    <p>
-                        [{{ ta.term }}]
-                    </p>
+                    <p style="margin-bottom: 0px;">[{{ ta.term }} term]</p>
                     {% endif %}                    
                     {% if ta.pronouns %}
                     <p>({{ta.pronouns}})</p>
