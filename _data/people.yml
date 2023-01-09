@@ -11,6 +11,17 @@ instructors:
     profile_pic: /_images/pp/madhu.png
     webpage: https://madhu.seas.harvard.edu/
     pronouns: he/him
+    term: fall
+  - name: Flavio Calmon
+    profile_pic: /_images/pp/flavio-calmon.png
+    webpage: https://people.seas.harvard.edu/~flavio/
+    pronouns: he/him
+    term: spring
+  - name: Martin Wattenberg
+    profile_pic: /_images/pp/martin-wattenberg.png
+    webpage: https://www.bewitched.com/about.html
+    pronouns: he/him   
+    term: spring
 
 teaching_assistants:
   - name: Eura Shin
