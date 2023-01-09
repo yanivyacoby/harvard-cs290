@@ -30,9 +30,19 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
-                    <p style="margin-bottom: 0px;"><a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a></p>
+                    <p style="margin-bottom: 0px;">
+                        <a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a>
+                        {% if ins.term %}
+                        ({{ ins.term }})
+                        {% endif %}
+                    </p>
                     {% else %}
-                    <p style="margin-bottom: 0px;">{{ins.name}}</p>
+                    <p style="margin-bottom: 0px;">
+                        {{ins.name}}
+                        {% if ins.term %}
+                        ({{ ins.term }})
+                        {% endif %}
+                    </p>
                     {% endif %}
                     {% if ins.pronouns %}
                     <p>({{ins.pronouns}})</p>
