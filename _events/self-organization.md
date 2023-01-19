@@ -10,4 +10,4 @@ hide_from_announcments: true
 * TBD
 
 **In Class:** 
-* Guests: [Sadé Abraham](https://dso.college.harvard.edu/people/sad%C3%A9-abraham) and Dr. [Margaret Rennix](https://academicresourcecenter.harvard.edu/people/margaret-rennix)
+* Guests: [Sadé Abraham](https://dso.college.harvard.edu/people/sad%C3%A9-abraham){:target="_blank"}{:rel="noopener noreferrer"} and Dr. [Margaret Rennix](https://academicresourcecenter.harvard.edu/people/margaret-rennix){:target="_blank"}{:rel="noopener noreferrer"}
