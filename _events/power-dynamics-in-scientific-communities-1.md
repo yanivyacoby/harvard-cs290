@@ -10,4 +10,4 @@ hide_from_announcments: true
 * TBD
 
 **In Class:** 
-* Guest: Professor [Mary Gray](https://marylgray.org/)
+* Guest: Professor [Mary Gray](https://marylgray.org/){:target="_blank"}{:rel="noopener noreferrer"}
