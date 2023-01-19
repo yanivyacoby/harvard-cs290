@@ -2,7 +2,7 @@
 type: raw_event
 date: 2023-02-03T09:45:00
 name: Class
-description: 'Communication in General Audiences'
+description: 'Communication with General Audiences'
 hide_from_announcments: true
 ---
 
