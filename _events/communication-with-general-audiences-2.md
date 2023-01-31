@@ -10,4 +10,4 @@ hide_from_announcments: true
 * TBD
 
 **In Class:** 
-* TBD
+* A continuation of last class.
