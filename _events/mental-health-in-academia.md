@@ -11,3 +11,4 @@ hide_from_announcments: true
 
 **In Class:** 
 * Guests: [Olivia Fitzpatrick](https://weiszlab.fas.harvard.edu/olivia-fitzpatrick){:target="_blank"}{:rel="noopener noreferrer"}
+* Special note: *no faculty present*
