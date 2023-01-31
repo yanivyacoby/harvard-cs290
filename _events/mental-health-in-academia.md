@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-03-10T09:45:00
+date: 2023-03-24T09:45:00
 name: Class
 description: 'Mental Health in Academia'
 hide_from_announcments: true
@@ -10,4 +10,4 @@ hide_from_announcments: true
 * TBD
 
 **In Class:** 
-* Guests: [Olivia Fitzpatrick](https://weiszlab.fas.harvard.edu/olivia-fitzpatrick)
+* Guests: [Olivia Fitzpatrick](https://weiszlab.fas.harvard.edu/olivia-fitzpatrick){:target="_blank"}{:rel="noopener noreferrer"}
