@@ -29,8 +29,14 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 **Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and more than 1-2 absences, unless excused, may affect your final grade in the course.
 
-**Office Hours:** TBD (we'll send out a poll). We'll use this [calendar](https://calendar.google.com/calendar/u/0?cid=MXZwN2lmaHY1OG5pZnVuOTBicnJicGRoc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"}{:rel="noopener noreferrer"} for exceptions.
+**Office Hours:** 
+* Yaniv: Mondays, 3:30-4:30pm @ SEC 1.319 Lau Room
+* Eura: Fridays, 4-5pm @ SEC 1.401
+* John: Wednesdays, 3:30-4:30pm @ SEC 1.101
+* Martin: Wednesdays, 1-2pm @ SEC 4.305
+* Flavio: TBD
 
+We'll use this [calendar](https://calendar.google.com/calendar/u/0?cid=MXZwN2lmaHY1OG5pZnVuOTBicnJicGRoc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showCalendars=1&showTabs=1&showTitle=1&mode=AGENDA&src=MXZwN2lmaHY1OG5pZnVuOTBicnJicGRoc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
