@@ -34,7 +34,7 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 * Eura: Fridays, 4-5pm @ SEC 1.401
 * John: Wednesdays, 3:30-4:30pm @ SEC 1.101
 * Martin: Wednesdays, 1-2pm @ SEC 4.305
-* Flavio: TBD
+* Flavio: Mondays, 1-2pm @ SEC 3.306
 
 We'll use this [calendar](https://calendar.google.com/calendar/u/0?cid=MXZwN2lmaHY1OG5pZnVuOTBicnJicGRoc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
