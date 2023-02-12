@@ -10,4 +10,4 @@ hide_from_announcments: true
 * Read two of the articles listed on canvas and answer the reflection questions.
 
 **In Class:** 
-* Guest: Professor [Mary Gray](https://marylgray.org/){:target="_blank"}{:rel="noopener noreferrer"}
+* Guest: [Professor Mary Gray](https://marylgray.org/){:target="_blank"}{:rel="noopener noreferrer"}
