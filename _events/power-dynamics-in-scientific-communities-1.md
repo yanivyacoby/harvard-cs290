@@ -7,7 +7,7 @@ hide_from_announcments: true
 ---
 
 **Pre-class Work:** (instructions on canvas)
-* TBD
+* Read two of the articles listed on canvas and answer the reflection questions.
 
 **In Class:** 
 * Guest: Professor [Mary Gray](https://marylgray.org/){:target="_blank"}{:rel="noopener noreferrer"}
