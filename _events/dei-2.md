@@ -10,4 +10,4 @@ hide_from_announcments: true
 * TBD
 
 **In Class:** 
-* Guest: Dr. [Weiwei Pan](https://onefishy.github.io/){:target="_blank"}{:rel="noopener noreferrer"}
+* Guest: [Dr. Weiwei Pan](https://onefishy.github.io/){:target="_blank"}{:rel="noopener noreferrer"}
