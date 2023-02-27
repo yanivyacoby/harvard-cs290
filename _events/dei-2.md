@@ -14,7 +14,7 @@ hide_from_announcments: true
     * [The Qual](https://blogs.ams.org/livingproof/2021/05/21/the-qual-by-dana-williams/){:target="_blank"}{:rel="noopener noreferrer"}
     * [Winning by Impression](https://www.ams.org/about-us/LivingProof.pdf#%5B%7B%22num%22%3A351%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitH%22%7D%2C648%5D){:target="_blank"}{:rel="noopener noreferrer"}
     * [A View of Mathematics from Behind the Veil](https://www.ams.org/about-us/LivingProof.pdf#%5B%7B%22num%22%3A351%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22FitH%22%7D%2C648%5D){:target="_blank"}{:rel="noopener noreferrer"}
-* Answer the reflection question  
+* Answer the reflection questions  
 
 
 **In Class:** 
