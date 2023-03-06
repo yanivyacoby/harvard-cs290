@@ -13,5 +13,6 @@ hide_from_announcments: true
   * [Invisible Women: The Plough Hypothesis (Chapter 7)](https://hollis.harvard.edu/permalink/f/1lqd3jo/01HVD_ALMA512333730570003941){:target="_blank"}{:rel="noopener noreferrer"}
 * Answer reflection questions on canvas.
 
-**In Class:** \[[slides]({{ site.baseurl }} /assets/DEI-part1.pdf){:target="_blank"}{:rel="noopener noreferrer"}\]
+**In Class:** \[[slides]({{ site.baseurl }}/assets/DEI-part1.pdf){:target="_blank"}{:rel="noopener noreferrer"}\]
+* Discussion of barriers leading to equitable and fair participatory design
 * Guest: [Dr. Weiwei Pan](https://onefishy.github.io/){:target="_blank"}{:rel="noopener noreferrer"}
