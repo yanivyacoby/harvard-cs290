@@ -18,5 +18,5 @@ hide_from_announcments: true
 
 
 **In Class:** \[[slides]({{ site.baseurl }}/assets/DEI-part2.pdf){:target="_blank"}{:rel="noopener noreferrer"}\]
-* Analysis of barriers to participation using formal frameworks
+* Analysis of the above cases and of barriers to participatory design using formal frameworks
 * Guest: [Dr. Weiwei Pan](https://onefishy.github.io/){:target="_blank"}{:rel="noopener noreferrer"}
