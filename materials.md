@@ -79,7 +79,7 @@ scientific communities as a starting point for you to engage with these issues.
 * [Beyond Bias: Re-imagining the Terms of “Ethical AI” in Criminal Law](https://www.law.georgetown.edu/mcrp-journal/wp-content/uploads/sites/22/2021/01/GT-GCRP200014.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 * ["Fair" Risk Assessments: A Precarious Approach for Criminal Justice Reform](https://www.benzevgreen.com/wp-content/uploads/2019/02/18-fatml.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 * [Critical Race Theory for HCI](http://iogburu.people.si.umich.edu/articles/CHI2020.pdf){:target="_blank"}{:rel="noopener noreferrer"}
-* [Invisible women : data bias in a world designed for men](https://hollis.harvard.edu/permalink/f/1lqd3jo/01HVD_ALMA512333730570003941){:target="_blank"}{:rel="noopener noreferrer"}
+* [Invisible women: data bias in a world designed for men](https://hollis.harvard.edu/permalink/f/1lqd3jo/01HVD_ALMA512333730570003941){:target="_blank"}{:rel="noopener noreferrer"}
 
 
 
