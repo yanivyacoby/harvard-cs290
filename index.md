@@ -30,8 +30,8 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 **Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and more than 1-2 absences, unless excused, may affect your final grade in the course.
 
 **Office Hours:** 
-* Yaniv: Mondays, 3:30-4:30pm @ SEC 1.319 Lau Room
-* Eura: Fridays, 4-5pm @ SEC 1.401
+* Yaniv: Fridays, 4-5pm @ SEC 1.401
+* Eura: Mondays, 3:30-4:30pm @ SEC 1.319 Lau Room 
 * John: Wednesdays, 3:30-4:30pm @ SEC 1.101
 * Martin: Wednesdays, 1-2pm @ SEC 4.305
 * Flavio: Mondays, 1-2pm @ SEC 3.306
