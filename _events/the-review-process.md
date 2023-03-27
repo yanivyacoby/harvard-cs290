@@ -15,6 +15,6 @@ hide_from_announcments: true
 * Answer reflection questions
 * Sign up to read and review one of three papers (spend < 1hr on this)
 
-**In Class:** 
+**In Class:** \[[slides]({{ site.baseurl }}/assets/The-Paper-Review-Process.pdf){:target="_blank"}{:rel="noopener noreferrer"}\]
 * Discuss, what makes a "good" vs. "bad" review?
 * Simulate the reviewing process (e.g. the roles of the area chairs, meta-reviewers, etc.)
