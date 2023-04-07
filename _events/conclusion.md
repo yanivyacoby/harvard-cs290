@@ -10,4 +10,4 @@ hide_from_announcments: true
 * TBD
 
 **In Class:** 
-* TBD
+* Reflect on the first year of the Ph.D., topics discussed over the course of CS290, and how we can continue building an inclusive and supportive community at Harvard and beyond.
