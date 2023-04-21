@@ -13,6 +13,6 @@ hide_from_announcments: true
   * [Most Ph.D.s aren’t professors. Everything one can do other than be… by Amy J. Ko](https://medium.com/bits-and-behavior/most-ph-d-s-arent-professors-13a741ef6868){:target="_blank"}{:rel="noopener noreferrer"}
 * Answer the reflection questions
 
-**In Class:** 
+**In Class:** \[[slides](https://docs.google.com/presentation/d/1MduwEVqMNu4_B6cbwZxf1UdUItx6W1fz1F59XOclxII/edit?usp=share_link){:target="_blank"}{:rel="noopener noreferrer"}\]
 * Part 1: Discussion of how to support your peers
 * Part 2: Life after the Ph.D.
