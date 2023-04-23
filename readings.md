@@ -10,7 +10,7 @@ These notions about science can also become obstacles for us as a community to p
 inclusive and useful science, impede us individually in our professional growth, 
 by contributing to unrealistic self-expectations (and therefore poor mental health), 
 and hinder our ability to build supportive academic communities. 
-We hope that these materials will provide you with a starting point to build a more accurate conception of science.
+We hope that these readings will provide you with a starting point to build a more accurate conception of science.
 
 
 ## Skill Building
@@ -29,9 +29,9 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
   1. What should you expect from yourself in your first year?
   2. What does your advisor expect from you in your first year?
   3. How can you be supportive of your peers?
-* [How to read a research paper]({{ site.baseurl }}/materials/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
-* [how to do a literature search]({{ site.baseurl }}/materials/how-to-do-a-literature-search){:target="_blank"}{:rel="noopener noreferrer"}
-* [How to communicate about weekly progress with your collaborators]({{ site.baseurl }}/materials/communication-in-collaborative-environments){:target="_blank"}{:rel="noopener noreferrer"}
+* [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper){:target="_blank"}{:rel="noopener noreferrer"}
+* [how to do a literature search]({{ site.baseurl }}/readings/how-to-do-a-literature-search){:target="_blank"}{:rel="noopener noreferrer"}
+* [How to communicate about weekly progress with your collaborators]({{ site.baseurl }}/readings/communication-in-collaborative-environments){:target="_blank"}{:rel="noopener noreferrer"}
 * [How to give a research talk](http://cseweb.ucsd.edu/~swanson/GivingTalks.html){:target="_blank"}{:rel="noopener noreferrer"}
 * How to (and how not to) review a paper:
   * [The Ins and Outs of Reviewing -- what's good, what's bad, what's ugly?](https://dtai.cs.kuleuven.be/events/ReviewingTutorial/ECMLPKDD_2019_Tutorial_on_Reviewing_FULL.pdf){:target="_blank"}{:rel="noopener noreferrer"}
