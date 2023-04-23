@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course Materials & Additional Readings
-permalink: /materials/
+title: Readings
+permalink: /readings/
 ---
 
 We, as a society, hold beliefs about science that may be romanticized and inaccurate. 
