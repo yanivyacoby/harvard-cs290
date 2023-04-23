@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Communicate About Weekly Progress with Your Collaborators
-permalink: /materials/communication-in-collaborative-environments/
+permalink: /readings/communication-in-collaborative-environments/
 ---
 
 Good communication practices in collaborative environments are vital. 
