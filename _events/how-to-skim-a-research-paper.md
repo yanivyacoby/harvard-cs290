@@ -12,7 +12,7 @@ hide_from_announcments: true
 
 **In Class:** \[[slides](https://docs.google.com/presentation/d/1ozxDCtxtJazExXUSXMoHevyGc4uW_nogVjRc1n2qxHU/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
 * Why think about self-regulated learning
-* [How to read a research paper]({{ site.baseurl }}/materials/how-to-read-a-research-paper/){:target="_blank"}{:rel="noopener noreferrer"}
+* [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper/){:target="_blank"}{:rel="noopener noreferrer"}
 * Practice skimming papers: (don’t read before class!)
   * [Rx: Treating Bugs As Allergies – A Safe Method to Survive Software Failures](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/Rx-SOSP05.pdf){:target="_blank"}{:rel="noopener noreferrer"}
   * [The Dimpled Manifold Model of Adversarial Examples in Machine Learning](https://arxiv.org/abs/2106.10151){:target="_blank"}{:rel="noopener noreferrer"}
