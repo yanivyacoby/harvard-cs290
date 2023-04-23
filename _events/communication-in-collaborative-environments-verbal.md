@@ -11,4 +11,4 @@ hide_from_announcments: true
 * Reflect on your own strategies for updating collaborators on progress.
 
 **In Class:** \[[slides](https://docs.google.com/presentation/d/1o7C26CdeZwkIwqK7Rvohzng9C2OHFCW8acZTPoXMIwY/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
-* [How to communicate about weekly progress with your collaborators]({{ site.baseurl }}/materials/communication-in-collaborative-environments){:target="_blank"}{:rel="noopener noreferrer"}
+* [How to communicate about weekly progress with your collaborators]({{ site.baseurl }}/readings/communication-in-collaborative-environments){:target="_blank"}{:rel="noopener noreferrer"}
