@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to do a Literature Search
-permalink: /materials/how-to-do-a-literature-search/
+permalink: /readings/how-to-do-a-literature-search/
 ---
 
 The literature search is likely one of the first foundational skills you’ll practice as a researcher. 
