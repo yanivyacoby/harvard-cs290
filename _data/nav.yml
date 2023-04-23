@@ -7,6 +7,6 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
-- url: /materials/
-  name: Materials
+- url: /readings/
+  name: Readings
   icon_class: fas fa-book
