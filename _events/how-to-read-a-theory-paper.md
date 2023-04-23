@@ -7,7 +7,7 @@ hide_from_announcments: true
 ---
 
 **Pre-class Work:** (instructions on canvas)
-* Review [How to read a research paper]({{ site.baseurl }}/materials/how-to-read-a-research-paper/){:target="_blank"}{:rel="noopener noreferrer"}
+* Review [How to read a research paper]({{ site.baseurl }}/readings/how-to-read-a-research-paper/){:target="_blank"}{:rel="noopener noreferrer"}
 * Spend *one hour* reading and trying to get as much as you can out of [Negative-Weight Single-Source Shortest Paths in Near-linear Time](https://arxiv.org/abs/2203.03456){:target="_blank"}{:rel="noopener noreferrer"}. Note that the paper is far too long to read entirely in one hour; use strategies like those from the paper-reading guide to figure out where to focus your attention and try to get as much value as you can in the hour.  In particular, start with the introduction and try to understand what are the main contributions of the paper (both the high-level takeaways and the precise theorem statements), and then selectively delve into the technical sections as needed to improve your understanding and/or according to your interest.
 
 **In Class:** \[[slides](https://docs.google.com/presentation/d/1PtFZSAdrTzb7f9K54DmQFiFVm8CjJ9ZUsr0__OvIx-c/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
